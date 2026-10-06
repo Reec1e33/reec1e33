@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Reec1e33/reec1e33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "name": "Reece Roskam",
+  "role": "CS @ Michigan State '27 · Co-Founder @ MeshFP · Founding Engineer @ Squib Labs",
+  "location": "Grand Rapids, MI",
+  "building": ["AI SaaS", "LLM platforms", "RAG pipelines", "DevOps & infra"],
+  "stack": ["TypeScript", "Next.js", "React", "Fastify", "tRPC", "Python", "Go", "PostgreSQL"],
+  "infra": ["Docker", "AWS", "GitHub Actions", "Linode", "Vercel"],
+  "website": "reeceroskam.com",
+  "contact": "reece@reeceroskam.com"
+}
